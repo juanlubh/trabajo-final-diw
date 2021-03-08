@@ -1,0 +1,29 @@
+body{
+        
+    ul{
+        list-style: none;
+    }
+
+    .cavecera{
+    background-color: rgba(59, 59, 59, 0.404);
+    }
+
+    .menu_inferior{
+        ul{
+            li{
+                a{
+                    color: black;
+                }
+            }
+        }
+
+    }
+
+    .card:hover{
+        left: 10px;
+        bottom: 15px;
+        box-shadow: 5px 10px 20px black;
+    }
+
+}
+
